@@ -17,6 +17,7 @@ classes
 *.html
 mave
 *.txt
+*.png
 
 ### macOS template
 *.DS_Store
